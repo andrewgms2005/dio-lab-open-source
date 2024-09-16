@@ -1,5 +1,5 @@
 # Andrew Mendes
-Olá, me chamo Andrew e sou um desenvolvedor frontend e backend iniciante. 
+Olá, me chamo Andrew e sou um desenvolvedor fullstack iniciante.
 
 ## Conecte-se comigo
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/andrew-gabriel-mendes-santos) 
